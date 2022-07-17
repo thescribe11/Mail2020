@@ -1,2 +1,2 @@
-# RaschioOfficeMail2020
-This is the repository for Raschio Office Mail 2020.
+# Mail2020
+This is the repository for Mail 2020, a pet project of mine.
